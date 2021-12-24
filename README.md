@@ -13,12 +13,10 @@
 	<b>🙌 ETH: 0x03348F2Fd175b44c1a3CFC22cc37De7E7Ff3Ca48</b>
 	</p>
 	<br>
-
+<p align="center">
 <a href="https://github.com/HesamTorkashvand" align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=HesamTorkashvand&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
-<a href="https://github.com/HesamTorkashvand">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HesamTorkashvand&theme=dracula" />
-</a>
+	</p>
 <br><br>
 <img src="https://user-images.githubusercontent.com/9213496/100453274-f6af9e00-30cf-11eb-9007-d7264c399f8f.png" alt="alt text" width="48" height="48">
 <img src="https://user-images.githubusercontent.com/9213496/100454663-9a9a4900-30d2-11eb-8e49-8949f91033f2.png" alt="alt text" width="48" height="48">
