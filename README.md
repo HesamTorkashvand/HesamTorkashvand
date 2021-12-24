@@ -1,19 +1,14 @@
 <h1 align="center">Hi there 👋 | Im Hesam Torkashvand<h1>
   
-<!--
-**HesamTorkashvand/HesamTorkashvand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---!>
+  <p align="center">
+    
+	<b>🙌 Donate Bitcoin with <a href="https://link.trustwallet.com/send?coin=0&address=bc1qndtfa66kg4x3f709ntd6rk44tpjka06gusy085">Trust</a>🙌</b><br>
+	<b>🙌 Donate ETH with <a href="https://link.trustwallet.com/send?coin=60&address=0x03348F2Fd175b44c1a3CFC22cc37De7E7Ff3Ca48">Trust</a>🙌</b><br><br>
+	<b>🙌 Bitcoin: bc1qndtfa66kg4x3f709ntd6rk44tpjka06gusy085<br></b>
+	<b>🙌 ETH: 0x03348F2Fd175b44c1a3CFC22cc37De7E7Ff3Ca48</b>
+    
+</p>
+<br>
 
 <a href="https://github.com/HesamTorkashvand" align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=HesamTorkashvand&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
