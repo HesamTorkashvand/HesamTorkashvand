@@ -1,9 +1,10 @@
 <h3 align="center">Hi there 👋 | Im Hesam Torkashvand<h3>
 	<p align="center">
 	<b>My specialties : </b><br>
-	<b>- Full Stack Web Developer</b><br><br>
-	<b>🙌 Bitcoin: bc1qndtfa66kg4x3f709ntd6rk44tpjka06gusy085<br></b>
-	<b>🙌 ETH: 0x03348F2Fd175b44c1a3CFC22cc37De7E7Ff3Ca48</b>
+	<b>- Full Stack Web Developer</b><br>
+	<b>- .Net Developer => C# ( Windows Form )</b><br>
+	<b>- Web Hacking | NetWork Hacking (Client And Server) | Scada - Plc - ICS Hacking<br></b>
+	<b>My Contact Information : Mail => info.amirhesamtorkashvand@gmail.com | Telegram ID => @iHes4m </b>
 	</p>
 	<p align="center">
 	<b>🙌 Donate Bitcoin with <a href="https://link.trustwallet.com/send?coin=0&address=bc1qndtfa66kg4x3f709ntd6rk44tpjka06gusy085">Trust</a>🙌</b><br>
