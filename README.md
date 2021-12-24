@@ -1,11 +1,16 @@
 <h3 align="center">Hi there 👋 | Im Hesam Torkashvand<h3>
 	<p align="center">
+	<b>My specialties : </b><br>
+	<b>- Full Stack Web Developer</b><br><br>
+	<b>🙌 Bitcoin: bc1qndtfa66kg4x3f709ntd6rk44tpjka06gusy085<br></b>
+	<b>🙌 ETH: 0x03348F2Fd175b44c1a3CFC22cc37De7E7Ff3Ca48</b>
+	</p>
+	<p align="center">
 	<b>🙌 Donate Bitcoin with <a href="https://link.trustwallet.com/send?coin=0&address=bc1qndtfa66kg4x3f709ntd6rk44tpjka06gusy085">Trust</a>🙌</b><br>
 	<b>🙌 Donate ETH with <a href="https://link.trustwallet.com/send?coin=60&address=0x03348F2Fd175b44c1a3CFC22cc37De7E7Ff3Ca48">Trust</a>🙌</b><br><br>
 	<b>🙌 Bitcoin: bc1qndtfa66kg4x3f709ntd6rk44tpjka06gusy085<br></b>
 	<b>🙌 ETH: 0x03348F2Fd175b44c1a3CFC22cc37De7E7Ff3Ca48</b>
 	</p>
-	<br>
 	<br>
 
 <a href="https://github.com/HesamTorkashvand" align="center">
