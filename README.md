@@ -16,6 +16,8 @@
 <p align="center">
 <a href="https://github.com/HesamTorkashvand" align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=HesamTorkashvand&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HesamTorkashvand&layout=compact&langs_count=6&theme=dracula&hide_border=true" />
+</p>
 	</p>
 <br><br>
 <img src="https://user-images.githubusercontent.com/9213496/100453274-f6af9e00-30cf-11eb-9007-d7264c399f8f.png" alt="alt text" width="48" height="48">
