@@ -15,7 +15,7 @@
 	<br>
 <p align="center">
 <a href="https://github.com/HesamTorkashvand" align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HesamTorkashvand&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" /></a><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=HesamTorkashvand&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" /></a><br><br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HesamTorkashvand&layout=compact&langs_count=6&theme=dracula&hide_border=true" />
 </p>
 	</p>
