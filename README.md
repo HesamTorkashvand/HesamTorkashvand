@@ -4,7 +4,7 @@
 	<b>- Full Stack Web Developer</b><br>
 	<b>- .Net Developer => C# ( Windows Form )</b><br>
 	<b>- Web Hacking | WhiteBoxing (Secure Coding) | BlackBox (Bug Hunting)<br></b>
-	<b>- Android Applications Reverse<br></b>
+	<b>- Android Applications Reverse<br><br></b>
 	<b>My Contact Information :
 	<b></br>Mail => info.AmirHesamtorkashvand@gmail.com | Telegram ID => @imHes4m </b>
 	</p>
